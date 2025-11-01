@@ -1,0 +1,2 @@
+.home{ max-width:720px; margin:0 auto; padding:24px; background:linear-gradient(90deg, var(--verde-menta), var(--rosa-bebe)); border-radius:12px; text-align:center;}
+.cta{ display:inline-block; margin-top:16px; padding:10px 18px; background:#4aa88a; color:white; border-radius:8px; text-decoration:none; font-weight:700;}

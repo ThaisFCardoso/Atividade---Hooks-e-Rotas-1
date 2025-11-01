@@ -1,0 +1,8 @@
+:root{
+  --verde-menta:#c7f1df;
+  --rosa-bebe:#ffddee;
+  --texto:#22333b;
+  --accent:#4aa88a;
+}
+*{box-sizing:border-box}
+body{margin:0;color:var(--texto);background:#fff;}
